@@ -1,1 +1,1 @@
-This is a website inspired by instagram with all the buttons as a working by using the trending language Reactjs , by uploading this project to the git ,I proudly say that I learned some of the Basics of react and can able to work on react upcoming projects
+This is a website inspired by instagram with all the buttons as a working by using the trending language Reactjs , by uploading this project to the git ,I proudly say that I learned some of the Basics of react and can able to work on react in my upcoming projects
