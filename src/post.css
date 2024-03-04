@@ -1,0 +1,33 @@
+#post{
+    color: white;
+    margin-top:40px;
+    align-items: center;
+    
+    width:auto;
+    height:800px;
+    justify-content: center;
+}
+#pic_vid
+{
+    width: 70%;
+    height: 600px;
+    border:1px solid dimgray;
+    margin-left:90px;
+    margin-top: 30px;
+}
+#dp{
+    height: 50px;
+    width: 50px;
+    border-radius: 50px;
+    size: 20%;
+    margin-right: 10px;
+}
+#name{display: flex;
+margin-top: 10px;
+margin-left: 10%;
+}
+#img{
+    object-fit: cover;
+    width:500px;
+    height:600px;
+}
